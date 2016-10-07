@@ -1,7 +1,8 @@
 {
     "plugins": [
         "theme-faq",
-        "-tags"
+        "-tags",
+        "edit-link"
     ],
     "pluginsConfig": {
         "-tags": {
