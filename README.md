@@ -7,4 +7,4 @@ Topics that I am interested in:
 * \#Operating Systems
 
 My publications:
-* {{"tsai14graphene"|Graphene Library OS}}
+* {{ "tsai14graphene" | Graphene Library OS }}
