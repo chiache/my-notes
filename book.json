@@ -1,11 +1,11 @@
 {
     "plugins": [
         "theme-faq",
-        "tags",
+        "-tags",
         "editlink"
     ],
     "pluginsConfig": {
-        "tags": {
+        "-tags": {
             "placement": "bottom"
         }
     }
