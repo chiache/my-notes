@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Tags
+* [Tags](TAGS.md)
 
