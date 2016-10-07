@@ -3,5 +3,9 @@
         "theme-faq",
         "tags"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "tags": {
+            "placement": "bottom"
+        }
+    }
 }
