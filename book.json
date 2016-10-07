@@ -1,10 +1,10 @@
 {
     "plugins": [
         "theme-faq",
-        "-tags"
+        "tags"
     ],
     "pluginsConfig": {
-        "-tags": {
+        "tags": {
             "placement": "bottom"
         }
     }
