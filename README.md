@@ -5,6 +5,3 @@ Topics that I am interested in:
 * \#Learning
 * \#Computer Science
 * \#Operating Systems
-
-My publications:
-* {{ "tsai14graphene" | Graphene Library OS }}
