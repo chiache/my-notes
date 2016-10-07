@@ -7,6 +7,10 @@
     "pluginsConfig": {
         "-tags": {
             "placement": "bottom"
+        },
+        "edit-link": {
+            "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+            "label": "Edit This Page"
         }
     }
 }
