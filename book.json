@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "theme-faq",
-        "bibtex-citation"
+        "theme-faq"
     ],
     "pluginsConfig": {}
 }
