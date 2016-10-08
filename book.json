@@ -1,8 +1,9 @@
 {
     "plugins": [
         "theme-faq",
+        "-search",
         "editlink",
-        "tags"
+        "-tags"
     ],
     "pluginsConfig": {
         "editlink": {
