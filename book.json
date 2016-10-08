@@ -1,14 +1,10 @@
 {
     "plugins": [
         "theme-faq",
-        "editlink"
+        "editlink",
+        "tags"
     ],
     "pluginsConfig": {
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "serif",
-            "size": 1
-        },
         "editlink": {
             "base": "https://github.com/chiache/my-notes/edit/master/content",
             "label": "Edit This Page",
