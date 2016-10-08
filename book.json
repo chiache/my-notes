@@ -2,7 +2,7 @@
     "plugins": [
         "theme-faq",
         "-search",
-        "editlink",
+        "-editlink",
         "-tags"
     ],
     "pluginsConfig": {
