@@ -5,8 +5,8 @@
     ],
     "pluginsConfig": {
         "fontsettings": {
-            "theme": 'sepia',
-            "family": 'sans',
+            "theme": "sepia",
+            "family": "sans",
             "size": 2
         },
         "editlink": {
