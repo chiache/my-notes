@@ -2,7 +2,7 @@
     "plugins": [
         "theme-faq",
         "editlink",
-        "-tags"
+        "tags"
     ],
     "pluginsConfig": {
         "editlink": {
