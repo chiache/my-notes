@@ -1,4 +1,4 @@
-## I am [Chia-Che Tsai](http://chiachetsai.com), a CS-major PhD Student at [Stony Brook University](http://www.cs.stonybrook.edu), NY.
+### I am [Chia-Che Tsai](http://chiachetsai.com), a CS-major PhD Student at [Stony Brook University](http://www.cs.stonybrook.edu), NY.
 
 Topics that I am interested in:
 * \#Research
