@@ -4,6 +4,11 @@
         "editlink"
     ],
     "pluginsConfig": {
+        "fontsettings": {
+            "theme": 'sepia',
+            "family": 'sans',
+            "size": 2
+        },
         "editlink": {
             "base": "https://github.com/chiache/my-notes/edit/master/content",
             "label": "Edit This Page",
