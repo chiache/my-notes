@@ -7,7 +7,7 @@
         "editlink": {
             "base": "https://github.com/chiache/my-notes/edit/master/content",
             "label": "Edit This Page",
-            "multilingual": "false"
+            "multilingual": false
         }
     }
 }
