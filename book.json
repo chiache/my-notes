@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "theme-faq"
+        "theme-faq",
+        "editlink"
     ],
     "pluginsConfig": {}
 }
